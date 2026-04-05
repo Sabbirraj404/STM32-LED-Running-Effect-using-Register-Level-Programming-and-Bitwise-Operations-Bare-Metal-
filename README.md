@@ -74,4 +74,3 @@ This project demonstrates a simple LED running (shifting) effect using STM32F4 (
 - Bare-metal programming concepts  
 
 ---
-=
